@@ -5443,7 +5443,7 @@ h3 {
 h4 {
   text-align: center;
   vertical-align: center;
-  word-spacing: 90widthpx;
+  word-spacing: 90px;
   font-family: 'Slabo 27px', serif;
   font-size: 2rem;
   line-height: 100%;
@@ -8160,5 +8160,16 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   .picker--time .picker__box {
     margin-bottom: 5em; } }
 
+table, th, td {
+   border: 3px solid black;
+   width: 40%;
+   text-align: center;
+   vertical-align: top;
+   background-color: #FFFFFF;
+   height: 300px;
+}
 
+img { 
+    width:40%; 
+}
 
