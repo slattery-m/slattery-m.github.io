@@ -8162,7 +8162,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 table, th, td {
    border: 3px solid black;
-   width: 40%;
+   width: 60%;
    text-align: center;
    vertical-align: top;
    background-color: #FFFFFF;
